@@ -1,0 +1,8 @@
+.form-container{
+	border: 2px solid green;
+	padding: 40px 50px;
+	margin-top: 20vh;
+	-webkit-box-shadow: 7px 7px 24px 3px rgba(0,0,0,0.75);
+	-moz-box-shadow: 7px 7px 24px 3px rgba(0,0,0,0.75);
+	box-shadow: 7px 7px 24px 3px rgba(0,0,0,0.75);
+}

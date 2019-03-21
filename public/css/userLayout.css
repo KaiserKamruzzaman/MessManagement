@@ -1,0 +1,25 @@
+.navbar .nav-item{
+	padding-left: 1em ;
+}
+
+.navbar .nav-item .nav-link{
+	text-transform: uppercase;
+}
+.navbar{
+	
+}
+@media(max-width: 767px){
+	.navbar .nav-item{
+	padding-left: 0em !important ;
+}
+}
+
+/** user profile**/
+.card{
+	border: 2px solid black;
+	-webkit-box-shadow: 7px 7px 24px 3px rgba(0,0,0,0.75);
+	-moz-box-shadow: 7px 7px 24px 3px rgba(0,0,0,0.75);
+	box-shadow: 7px 7px 24px 3px rgba(0,0,0,0.75);
+}
+
+
